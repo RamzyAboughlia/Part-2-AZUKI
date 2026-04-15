@@ -8,17 +8,15 @@
 
 ## Report Metadata
 
+
 | Field | Value |
 |---|---|
 | **Organization** | Azuki Import/Export Trading Co. |
-| **Threat Hunt Title** | AZ-2025-001 — Post-Exploitation + Exfiltration + Lateral Movement Hunt |
-| **Part** | 2 of 2 |
 | **Date of Report** | 2026-04-10 |
-| **Incident Date** | 2025-11-19 |
-| **Severity** | CRITICAL |
-| **Primary Endpoint** | AZUKI-SL (IT Admin Workstation) |
-| **Primary Compromised Account** | `kenji.sato` |
+| **Incident Date** | 2025-11-20 |
 | **Analyst** | Ramzy Aboughlia |
+| **Affected System:** | AZUKI-SL (IT Admin Workstation) |
+| **Severity** | CRITICAL |
 | **Status** | Contained |
 
 ---
